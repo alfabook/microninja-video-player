@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/pause_disabled.png</file>
+        <file>images/open_light.png</file>
+        <file>images/open_normal.png</file>
+        <file>images/pause_light.png</file>
+        <file>images/play_disabled.png</file>
+        <file>images/play_light.png</file>
+        <file>images/quit_light.png</file>
+        <file>images/quit_normal.png</file>
+        <file>images/pause_normal.png</file>
+        <file>images/play_normal.png</file>
+        <file>images/stop_disabled.png</file>
+        <file>images/stop_light.png</file>
+        <file>images/stop_normal.png</file>
+        <file>images/open_disabled.png</file>
+        <file>images/fullscreen_disabled.png</file>
+        <file>images/fullscreen_light.png</file>
+        <file>images/fullscreen_normal.png</file>
+        <file>images/volume_down_disabled.png</file>
+        <file>images/volume_down_light.png</file>
+        <file>images/volume_down_normal.png</file>
+        <file>images/volume_up_disabled.png</file>
+        <file>images/volume_up_light.png</file>
+        <file>images/volume_up_normal.png</file>
+        <file>images/loop_disabled.png</file>
+        <file>images/loop_light.png</file>
+        <file>images/loop_normal.png</file>
+        <file>images/loop_active.png</file>
+        <file>images/loop_active_light.png</file>
+    </qresource>
+</RCC>

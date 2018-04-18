@@ -1,0 +1,5 @@
+gui/microninja-video-player usr/bin
+gui/dbuscontrol.sh usr/bin
+
+po/microninja-video-player_it.qm /usr/share/locale/microninja/microninja-video-player/translations
+

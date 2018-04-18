@@ -1,0 +1,36 @@
+microninja-video-player (1.0.5) unstable; urgency=low
+
+  * Internationalization / localization
+
+ -- Alfabook srl <info@scuolabook.it>  Mon, 11 Dec 2017 15:55:00 +0000
+
+microninja-video-player (1.0.4) unstable; urgency=low
+
+  * Support for command line arguments
+
+ -- Scuolabook srl <info@scuolabook.it>  Tue, 5 Dec 2017 15:55:00 +0000
+
+microninja-video-player (1.0.3) unstable; urgency=low
+
+  * Loop enabled
+
+ -- Scuolabook srl <info@scuolabook.it>  Wed, 30 Aug 2017 15:55:00 +0000
+
+microninja-video-player (1.0.2) unstable; urgency=low
+
+  * ESC will cause the return to normal mode from fullscreen mode
+
+ -- Scuolabook srl <info@scuolabook.it>  Wed, 30 Aug 2017 15:55:00 +0000
+
+microninja-video-player (1.0.1) unstable; urgency=low
+
+  * Bugfix getting res
+
+ -- Scuolabook srl <info@scuolabook.it>  Wed, 28 Jun 2017 15:58:00 +0000
+
+microninja-video-player (1.0) unstable; urgency=low
+
+  * First release
+
+ -- Scuolabook srl <info@scuolabook.it>  Fri, 23 Jun 2017 15:58:00 +0000
+
